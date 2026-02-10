@@ -249,7 +249,7 @@ MIT License - see LICENSE file for details
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Contact: energy-ai@buildingoptimizer.com
+- 
 
 ---
 
